@@ -28,6 +28,11 @@
 
 # #8 Check Preview File where I have mentioned about 8 & 9th point. ______Done!
 
+# #9 Deployed on Vercel
+
+<!-- Link -->
+https://movies-and-series-explorer.vercel.app/
+
 
 <!-- 8. Code Quality:
 - Write clean, modular, and reusable code.
