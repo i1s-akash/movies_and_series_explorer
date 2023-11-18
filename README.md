@@ -1,15 +1,3 @@
-<!-- 8. Code Quality:
-- Write clean, modular, and reusable code.
-- Include comments and documentation where necessary. -->
-
-<!-- 9. Bonus Challenges (Optional):
-   - Implement pagination or infinite scrolling for search results. -->
-
-<!-- 
-Genres was not coming in api response.
- -->
-
-<!-- 
 #1 React Boilerplate Setup
 -> created boilerplate of index.html, //touch index.html
 -> created index.js and App.js //touch index.js App.js
@@ -38,7 +26,16 @@ Genres was not coming in api response.
 
 #7 GitHub Setup
 
-#8 Done!
+#8 Check Preview File where I have mentioned about 8 & 9th point. ______Done!
 
+
+<!-- 8. Code Quality:
+- Write clean, modular, and reusable code.
+- Include comments and documentation where necessary. -->
+
+<!-- 9. Bonus Challenges (Optional):
+   - Implement pagination or infinite scrolling for search results. -->
+
+<!-- 
+Genres was not coming in api response.
  -->
-
